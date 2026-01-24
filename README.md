@@ -4,10 +4,10 @@
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9" />
 
-- 想學 UX 與認識不同品味設計  
+- 持續學習品味中  
 - iOS 開發者 & Apple Fans  
-- 喜歡各式運動 / 專項 > 路跑 / 健身 / 桌球  
-- 目前正在學習 SwiftUI / Agent / Economics / stretch
+- 喜歡各式好動項目 / 專項 > 路跑 / 健身 / 桌球  
+- 正在學 SwiftUI / Agent / Economics / stretch
 
 <br clear="right"/>
 
