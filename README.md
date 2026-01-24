@@ -1,6 +1,6 @@
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9" />
-
 <h1>Hi there, I'm Ashin Wang 👋</h1>
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9" />
 
 <sub>
 🎨 想學 UX 與認識不同品味設計<br/>
@@ -59,4 +59,4 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashinboy&theme=github-dark&hide_border=true&bg_color=0d1117&color=79c0ff&line=79c0ff&point=c9d1d9&area=true)
+![GitHub Activity Graph](https://gi
