@@ -1,7 +1,5 @@
 <h1>Hi there, I'm Ashin Wang 👋</h1>
 
-<br/>
-
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9" />
 
 - 想學 UX 與認識不同品味設計  
@@ -9,14 +7,17 @@
 - 喜歡各式運動 / 專項 > 路跑 / 健身 / 桌球  
 - 目前正在學習 SwiftUI / Agent / Economics / stretch
 
-<br clear="right"/>
-
+<br/>
+<br/>
 <br/>
 
 <div align="right">
-  <h3>📬 聯絡</h3>
   <sub>📫 ashinwangboy@gmail.com</sub>
 </div>
+
+<br clear="right"/>
+
+<br/>
 
 <h3>💻 開發技能</h3>
 
@@ -41,6 +42,3 @@
 ![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-1C1C1C?style=flat-square&logo=apple&logoColor=white)
 
 </sub>
-
----
-
