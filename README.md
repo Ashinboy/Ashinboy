@@ -13,10 +13,6 @@
 
 <br/>
 
-<div align="right">
-  <h3>📬 聯絡</h3>
-  <sub>📫 ashinwangboy@gmail.com</sub>
-</div>
 
 <h3>💻 開發技能</h3>
 
@@ -41,3 +37,8 @@
 ![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-1C1C1C?style=flat-square&logo=apple&logoColor=white)
 
 </sub>
+
+
+<div align="right">
+  <sub>📫 ashinwangboy@gmail.com</sub>
+</div>
