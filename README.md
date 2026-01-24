@@ -1,9 +1,13 @@
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+
 # Hi there, I'm Ashin Wang 👋
 
 - 🎨 想學 UX 與認識不同品味設計
 - 📱 iOS 開發者 & Apple Fans
 - 🏋🏻‍♂️ 喜歡各式運動 / 專項 > 路跑 / 健身 / 桌球
 - 🌱 目前正在學習 SwiftUI / Agent / Economics / stretch
+
+<br clear="right"/>
 
 ---
 
@@ -31,3 +35,5 @@
 ---
 
 📫 [Email](mailto:ashinwangboy@gmail.com) • [Medium](https://medium.com/@ashinwangboy)
+
+![](https://komarev.com/ghpvc/?username=Ashinboy&style=flat-square)
