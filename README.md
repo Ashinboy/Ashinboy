@@ -61,4 +61,3 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashinboy&theme=github-dark&hide_border=true&bg_color=0d1117&color=79c0ff&line=79c0ff&point=c9d1d9&area=true)
