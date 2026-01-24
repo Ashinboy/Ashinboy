@@ -11,38 +11,31 @@
 
 <br clear="right"/>
 
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 <h3>💻 開發技能</h3>
 
 <sub>
-  
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white&labelColor=FA7343)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white&labelColor=0D96F6)
-![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=swift&logoColor=white&labelColor=2396F3)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=02569B)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white&labelColor=147EFB)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032)
+
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </sub>
 
 <h3>🎨 設計工具</h3>
 
 <sub>
-  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white&labelColor=FF9A00)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white&labelColor=31A8FF)
-![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-1C1C1C?style=flat-square&logo=apple&logoColor=white&labelColor=1C1C1C)
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-1C1C1C?style=flat-square&logo=apple&logoColor=white)
 
 </sub>
-
-</td>
-<td width="50%" valign="top">
 
 <h3>✍️ 文章</h3>
 
@@ -54,8 +47,6 @@
 
 </sub>
 
-<br/>
-
 <h3>📬 聯絡</h3>
 
 <sub>
@@ -66,22 +57,6 @@
 
 </sub>
 
-</td>
-</tr>
-</table>
-
 ---
 
-<h3 align="center">📊 GitHub 活動統計</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashinboy&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=58a6ff" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashinboy&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashinboy&style=flat-square&color=58a6ff" alt="Profile views" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashinboy&theme=github-dark&hide_border=true&bg_color=0d1117&color=79c0ff&line=79c0ff&point=c9d1d9&area=true)
