@@ -5,8 +5,7 @@
 - 🎨 想學 UX 與認識不同品味設計
 - 📱 iOS 開發者 & Apple Fans
 - 🏋🏻‍♂️ 喜歡各式運動 / 專項 > 路跑 / 健身 / 桌球
-- 🌱 目前正在學習 SwiftUI / Agent
-- 📫 聯絡我：ashinwangboy@gmail.com
+- 🌱 目前正在學習 SwiftUI / Agent / Economics / stretch
 
 ## 🛠️ 技術技能
 
@@ -40,5 +39,3 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashinwangboy)
 
 ---
-
-⭐️ From [Ashinboy](https://github.com/Ashinboy)
