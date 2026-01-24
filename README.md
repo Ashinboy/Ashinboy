@@ -1,12 +1,11 @@
 <h1>Hi there, I'm Ashin Wang 👋</h1>
+
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9" />
 
-<sub>
-🎨 想學 UX 與認識不同品味設計<br/>
-📱 iOS 開發者 & Apple Fans<br/>
-🏋🏻‍♂️ 喜歡各式運動 / 專項 > 路跑 / 健身 / 桌球<br/>
+🎨 想學 UX 與認識不同品味設計  
+📱 iOS 開發者 & Apple Fans  
+🏋🏻‍♂️ 喜歡各式運動 / 專項 > 路跑 / 健身 / 桌球  
 🌱 目前正在學習 SwiftUI / Agent / Economics / stretch
-</sub>
 
 <br clear="right"/>
 
@@ -50,12 +49,14 @@
 
 <sub>
 
-📫 [ashinwangboy@gmail.com](mailto:ashinwangboy@gmail.com)  
-✍️ [Medium](https://medium.com/@ashinwangboy)  
+📫 ashinwangboy@gmail.com
+
+✍️ [Medium](https://medium.com/@ashinwangboy)
+
 🔗 [GitHub](https://github.com/Ashinboy)
 
 </sub>
 
 ---
 
-![GitHub Activity Graph](https://gi
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashinboy&theme=github-dark&hide_border=true&bg_color=0d1117&color=79c0ff&line=79c0ff&point=c9d1d9&area=true)
