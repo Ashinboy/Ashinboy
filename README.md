@@ -1,46 +1,87 @@
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9" />
 
-# Hi there, I'm Ashin Wang 👋
+<h1>Hi there, I'm Ashin Wang 👋</h1>
 
-<br />
-
-🎨 想學 UX 與認識不同品味設計  
-📱 iOS 開發者 & Apple Fans  
-🏋🏻‍♂️ 喜歡各式運動 / 專項 > 路跑 / 健身 / 桌球  
+<sub>
+🎨 想學 UX 與認識不同品味設計<br/>
+📱 iOS 開發者 & Apple Fans<br/>
+🏋🏻‍♂️ 喜歡各式運動 / 專項 > 路跑 / 健身 / 桌球<br/>
 🌱 目前正在學習 SwiftUI / Agent / Economics / stretch
+</sub>
 
 <br clear="right"/>
 
-## 💻 技能
+---
 
-**開發**  
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**設計**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-1C1C1C?style=flat&logo=apple&logoColor=white)
+<h3>💻 開發技能</h3>
 
-## ✍️ 文章
+<sub>
+  
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white&labelColor=FA7343)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white&labelColor=0D96F6)
+![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=swift&logoColor=white&labelColor=2396F3)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=02569B)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white&labelColor=147EFB)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032)
 
-- [50+ 杜鵑窩 - 獨立咖啡廳點餐 App Part 3](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E6%95%99%E5%AE%A4/50-%E6%9D%9C%E9%B5%91%E7%AA%A9-%E7%8D%A8%E7%AB%8B%E5%92%96%E5%95%A1%E5%BB%B3%E9%BB%9E%E9%A4%90app-part-3-984f2baec441)
-- [與人協作 Side Project - 最好留意這四點](https://medium.com/@ashinwangboy/%E8%88%87%E4%BA%BA%E5%8D%94%E4%BD%9Csideproject-%E6%9C%80%E5%A5%BD%E7%95%99%E6%84%8F%E9%80%99%E5%9B%9B%E9%BB%9E-301f19160c0c)
+</sub>
 
-## 📬 聯絡
+<h3>🎨 設計工具</h3>
+
+<sub>
+  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white&labelColor=FF9A00)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white&labelColor=31A8FF)
+![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-1C1C1C?style=flat-square&logo=apple&logoColor=white&labelColor=1C1C1C)
+
+</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>✍️ 文章</h3>
+
+<sub>
+
+[50+ 杜鵑窩 - 獨立咖啡廳點餐 App Part 3](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E6%95%99%E5%AE%A4/50-%E6%9D%9C%E9%B5%91%E7%AA%A9-%E7%8D%A8%E7%AB%8B%E5%92%96%E5%95%A1%E5%BB%B3%E9%BB%9E%E9%A4%90app-part-3-984f2baec441)
+
+[與人協作 Side Project - 最好留意這四點](https://medium.com/@ashinwangboy/%E8%88%87%E4%BA%BA%E5%8D%94%E4%BD%9Csideproject-%E6%9C%80%E5%A5%BD%E7%95%99%E6%84%8F%E9%80%99%E5%9B%9B%E9%BB%9E-301f19160c0c)
+
+</sub>
+
+<br/>
+
+<h3>📬 聯絡</h3>
+
+<sub>
 
 📫 [ashinwangboy@gmail.com](mailto:ashinwangboy@gmail.com)  
-✍️ [Medium](https://medium.com/@ashinwangboy)
+✍️ [Medium](https://medium.com/@ashinwangboy)  
+🔗 [GitHub](https://github.com/Ashinboy)
 
-<br />
+</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
+<h3 align="center">📊 GitHub 活動統計</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashinboy&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashinboy&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=58a6ff" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashinboy&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashinboy&style=flat-square&color=58a6ff" alt="Profile views" />
 </p>
