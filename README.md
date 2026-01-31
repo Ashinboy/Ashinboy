@@ -2,7 +2,9 @@
 
 <br/>
 
-<img align="right" width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashinboy&theme=github_dark" />
+<!-- <img align="right" width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashinboy&theme=github_dark" /> -->
+[![GitHub followers](https://img.shields.io/github/followers/Ashinboy?style=social)](https://github.com/Ashinboy)
+[![GitHub stars](https://img.shields.io/github/stars/Ashinboy?style=social)](https://github.com/Ashinboy)
 
 - 持續學習品味中  
 - iOS 開發者 & Apple Fans  
