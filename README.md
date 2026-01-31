@@ -3,8 +3,7 @@
 <br/>
 
 <!-- <img align="right" width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashinboy&theme=github_dark" /> -->
-[![GitHub followers](https://img.shields.io/github/followers/Ashinboy?style=social)](https://github.com/Ashinboy)
-[![GitHub stars](https://img.shields.io/github/stars/Ashinboy?style=social)](https://github.com/Ashinboy)
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff&rank_icon=percentile" />
 
 - 持續學習品味中  
 - iOS 開發者 & Apple Fans  
