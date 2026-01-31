@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&theme=dark" />
+
 
 - 持續學習品味中  
 - iOS 開發者 & Apple Fans  
