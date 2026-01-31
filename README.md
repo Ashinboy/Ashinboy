@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&theme=dark" />
 
 - 持續學習品味中  
 - iOS 開發者 & Apple Fans  
