@@ -1,14 +1,20 @@
-<h1>Hi there, I'm Ashin Wang 👋</h1>
+<h1>Hi there, I'm Ashin Wang 👋
+
+I'm an iOS developer based in Taipei, Taiwan 🇹🇼
+
+I build apps that bring everyday ideas to life, including Fruitly, an app that helps you discover fresh, seasonal fruits and vegetables, along with a few small side projects inspired by my own interests.
+
+If you find something you like, feel free to leave a ⭐ on my repositories. It would mean a lot to me!</h1>
 
 <br/>
 
 <img align="right" width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashinboy&theme=github_dark" />
 <!-- <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Ashinboy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff&rank_icon=percentile" /> -->
 
-- 持續學習品味中
-- iOS 開發者 & Apple Fans  
-- 喜歡戶外運動 / 比方 > 路跑 / 健身 / 騎車 / 游泳 / 桌球  
-- 正在學 SwiftUI / Agent / Economics / stretch
+🎨 Always exploring good design and developing my own sense of taste.
+🍎 iOS Developer & Apple enthusiast.
+🏃 Into running, cycling, swimming, fitness, and table tennis.
+🌱 Currently learning SwiftUI, AI Agents, Economics, and stretching & mobility.
 
 <br clear="right"/>
 
