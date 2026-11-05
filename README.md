@@ -7,7 +7,7 @@
 
 <p>
   I build apps that bring everyday ideas to life.
-  My projects include <strong>Fruitly</strong>, an app for discovering
+  My projects include <strong>「Fruitly」</strong>, an app for discovering
   seasonal produce and exploring daily market prices, along with
   small side projects inspired by everyday life.
 </p>
