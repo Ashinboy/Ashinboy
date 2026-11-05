@@ -19,31 +19,21 @@
 
 ---
 
-
 <h3>✨ A Little About Me</h3>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<img
+  align="right"
+  width="400"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashinboy&theme=github_dark"
+  alt="GitHub Stats"
+/>
 
-🎨 Exploring good design and developing my own sense of taste
-
-🍎 iOS Developer & Apple enthusiast
-
-🏃 Running · Cycling · Swimming · Fitness · Table Tennis
-
+🎨 Exploring good design and developing my own sense of taste<br/>
+🍎 iOS Developer & Apple enthusiast<br/>
+🏃 Running · Cycling · Swimming · Fitness · Table Tennis<br/>
 🌱 Learning SwiftUI · AI Agents · Economics · Mobility
 
-    </td>
-    <td width="45%" align="center" valign="top">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashinboy&theme=github_dark"
-        alt="Ashin's GitHub Stats"
-        width="400"
-      />
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 
 ### 💻 Tech Stack
