@@ -1,5 +1,5 @@
 
-<h1>Hi there, I'm Ashin Wang 👋</h1>
+<h1>Hi there, I'm Ashin 👋</h1>
 
 <p>
   <strong>iOS Developer</strong> based in Taipei, Taiwan 🇹🇼
