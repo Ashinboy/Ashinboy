@@ -19,6 +19,27 @@
 
 ---
 
+### 📱 My Apps
+
+<p align="left">
+  <a href="https://apps.apple.com/tw/app/fruitly-蔬果行情/id6821668088?l=en-GB">
+    <img
+      src="./assets/fruitly-icon.png"
+      width="90"
+      alt="Fruitly"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="[https://apps.apple.com/app/id另一個APP_ID](https://apps.apple.com/tw/app/熱血計分板/id1628088755?l=en-GB)">
+    <img
+      src="./assets/ScoreBoard-icon.png"
+      width="90"
+      alt="ScoreBoard"
+    />
+  </a>
+</p>
+
+
 <h3>✨ A Little About Me</h3>
 
 <img
